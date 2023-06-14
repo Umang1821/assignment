@@ -1,0 +1,27 @@
+.heading{
+  font-size: 30px;
+  font-style: normal;
+  text-align: center;
+  display: flex;
+}
+
+.box {
+    justify-content: center;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: grid;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .strip{
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  }
